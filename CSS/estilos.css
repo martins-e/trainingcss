@@ -1,0 +1,40 @@
+body {
+    background-image: url('https://img.freepik.com/free-vector/elegant-white-texture-background_23-2148431731.jpg?size=626&ext=jpg');
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh;
+   }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  a {
+    color: #999966;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .site-title {
+    color: #4d4d4d;
+    font-style: bold;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    color: darkgray;
+    font-style: italic;
+    text-align: center;
+  }
